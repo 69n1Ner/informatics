@@ -1,0 +1,3 @@
+item = [
+    { even_week = true, day = "Суббота" },
+]
